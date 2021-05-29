@@ -10,3 +10,18 @@
 ✨ Dynamically load content using jQuery AJAX <br>
 ✨ Data from Heroku app
  
+ ## What it looks like
+ ### Home Page
+ With jumbotron and snippets
+![img](https://imgur.com/V8KnF5N.png)
+![img](https://imgur.com/VaP9IOj.png)
+
+### Categories Page
+![img](https://imgur.com/C1lCRlN.png)
+
+### Single Category Page
+![img](https://imgur.com/RKUZa4g.png)
+
+### Mobile Version
+With toggle button <br>
+![img](https://imgur.com/BeigqXB.png)
